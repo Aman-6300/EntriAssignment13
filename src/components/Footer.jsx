@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 
+
 function Footer() {
   return (
     <footer className="footer bg-dark text-center text-white py-3">
