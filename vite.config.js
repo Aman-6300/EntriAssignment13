@@ -7,6 +7,6 @@ export default defineConfig({
   build: {
     rollupOptions: {
       external: ['bootstrap'] // This tells Vite/Rollup to treat 'bootstrap' as an external dependency
-    }
-  }
+    }
+  }
 })
